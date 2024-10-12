@@ -1,0 +1,11 @@
+find sum of the given array:
+
+example input:
+1,2,3,4,5,6
+
+example output:
+21
+
+
+
+dont know
